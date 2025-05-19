@@ -62,4 +62,4 @@ This project can serve as a strong foundation for more advanced real-time applic
 
 Overall, this application is a great showcase of how modern web development tools can be combined to deliver seamless and interactive user experiences in real-time.
 
-*OUTPUT*:
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/937ababb-d36a-4ab3-a1fc-bb8964b660ad)
